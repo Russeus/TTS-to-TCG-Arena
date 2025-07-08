@@ -17,7 +17,7 @@ exports.handler = async function(event) {
 
   const output = Object.entries(counts)
     .map(([id, count]) => {
-      const name = cards[id] || "[Nombre no disponible]";
+      const name = cards[id] || "[Unrevealed]";
       return `${count} ${name}`;
     })
     .join("\n");
