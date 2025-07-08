@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Deck List Converter</title>
+  <title>TTS Deck List Converter to TCG Arena</title>
   <style>
     body {
       background: #121212;
@@ -42,8 +42,8 @@
   <h1>Deck List Converter</h1>
   <textarea id="deckInput" placeholder="Pega aquí tu lista de cartas..."></textarea>
   <br />
-  <button onclick="convert()">Convertir</button>
-  <button id="copyBtn" onclick="copyText()" style="display:none;">Copiar</button>
+  <button onclick="convert()">Convert</button>
+  <button id="copyBtn" onclick="copyText()" style="display:none;">Copy-to-Clipboard</button>
   <pre id="output"></pre>
 
   <script>
@@ -62,7 +62,7 @@
     function copyText() {
       const text = document.getElementById("output").textContent;
       navigator.clipboard.writeText(text)
-        .then(() => alert("¡Copiado al portapapeles!"));
+        .then(() => alert("Decklist copied!"));
     }
   </script>
 </body>
