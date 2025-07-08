@@ -1,0 +1,22 @@
+module.exports = {
+  "OGN-265": "Viktor, Herald of the Arcane",
+  "OGN-246": "Victor, Leader",
+  "OGN-103": "Ravenbloom Student",
+  "OGN-213": "Hidden Blade",
+  "OGN-266": "Siphon Power",
+  "OGN-216": "Soaring Scout",
+  "OGN-209": "Cull the Weak",
+  "OGN-096": "Watchful Sentry",
+  "OGN-222": "Noxian Drummer",
+  "OGN-211": "Faithful Manufacturer",
+  "OGN-218": "Vanguard Captain",
+  "OGN-208": "Cruel Patron",
+  "OGN-083": "Consult the Runes",
+  "OGN-085": "Falling Comet",
+  "OGN-233": "Grand Strategem",
+  "OGN-234": "Harnessed Dragon",
+  "OGN-294": "Trifarian War Camp",
+  "OGN-284": "Obelisk of Power",
+  "OGN-285": "Reaver's Row",
+  "OGN-214": "Order Rune"
+};
