@@ -142,7 +142,7 @@ const cards = {
   "OGN-147": "Wildclaw Shaman",
   "OGN-148": "Anivia, Primal",
   "OGN-149": "Carnivorous Snapvine",
-  "OGN-150": "Jagged Taskmaster",
+  "OGN-150": "Kraken Hunter",
   "OGN-152": "Mistfall",
   "OGN-153": "Overt Operation",
   "OGN-154": "Primal Strength",
