@@ -77,7 +77,7 @@ const cards = {
   "OGN-076": "Yasuo, Remorseful",
   "OGN-077": "Zhonya's Hourglass",
   "OGN-078": "Lee Sin, Ascetic",
-  "OGN-079": "Leona, Devotee",
+  "OGN-079": "Leona, Zealot",
   //"OGN-": "Nombre",
   "OGN-081": "Seal of Focus",
   "OGN-082": "Whiteflame Protector",
