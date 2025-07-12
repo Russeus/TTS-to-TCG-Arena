@@ -154,7 +154,7 @@ const cards = {
   "OGN-161": "Deadbloom Predator",
   "OGN-162": "Miss Fortune, Captain",
   "OGN-163": "Seal of Strength",
-  "OGN-164": "Sett, Iron Fist",
+  "OGN-164": "Sett, Brawler",
   "OGN-165": "Cemetery Attendant",
   "OGN-166": "Chaos Rune",
   "OGN-168": "Fight or Flight",
